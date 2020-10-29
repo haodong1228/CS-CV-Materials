@@ -1,2 +1,1 @@
-# hello-hub
-test
+study materials and assignments
